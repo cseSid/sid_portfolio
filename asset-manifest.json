@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sid_portfolio/static/css/main.90b552d4.css",
+    "main.js": "/sid_portfolio/static/js/main.e3e650a8.js",
+    "static/js/453.1407b060.chunk.js": "/sid_portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/Mygate.png": "/sid_portfolio/static/media/Mygate.52293b9d1d6b34005c84.png",
+    "static/media/AndoridInstrumentCluster.png": "/sid_portfolio/static/media/AndoridInstrumentCluster.9f4378cd3ae6ba83cfe2.png",
+    "static/media/Farmer Dairy.png": "/sid_portfolio/static/media/Farmer Dairy.38e6a059a6a7ff815717.png",
+    "static/media/Cotton Ace.png": "/sid_portfolio/static/media/Cotton Ace.958ce8e4e0795bd368b6.png",
+    "static/media/Agi-Ai-Dash.png": "/sid_portfolio/static/media/Agi-Ai-Dash.353ae81ebeaa1f695429.png",
+    "static/media/KKMS.png": "/sid_portfolio/static/media/KKMS.157fbc6739fb4b939416.png",
+    "index.html": "/sid_portfolio/index.html",
+    "main.90b552d4.css.map": "/sid_portfolio/static/css/main.90b552d4.css.map",
+    "main.e3e650a8.js.map": "/sid_portfolio/static/js/main.e3e650a8.js.map",
+    "453.1407b060.chunk.js.map": "/sid_portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90b552d4.css",
+    "static/js/main.e3e650a8.js"
+  ]
+}
